@@ -1,0 +1,14 @@
+
+---
+
+### 📄 `requirements.txt`
+
+```txt id="r2p8ne"
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+matplotlib
+nltk
+Sastrawi
